@@ -13,7 +13,7 @@ public class Program {
 		Set<Integer> numerosAposta = new TreeSet<>();
 		
 		
-		System.out.print("Com quantos números você vai querer fazer sua aposta? (6 a 20) ");
+		System.out.print("Com quantos números você vai querer fazer sua aposta?  (6 a 20) ");
 		int n = sc.nextInt();
 		
 		if (n >= 1 && n <= 20) {
