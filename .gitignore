@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 
 ### Eclipse ###
-.settings
 .metadata
 /bin/
 tmp/
@@ -11,7 +10,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+/.settings/
 .loadpath
 .recommenders
 
