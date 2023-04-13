@@ -18,7 +18,7 @@ public class Program {
 		
 		if (n >= 1 && n <= 20) {
 			while (numerosAposta.size() != n) {
-				numerosAposta.add(new Random().nextInt(1, 60));
+				numerosAposta.add(new Random().nextInt(1, 61));
 			}
 		}
 		
